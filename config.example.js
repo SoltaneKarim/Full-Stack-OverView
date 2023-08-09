@@ -1,0 +1,3 @@
+module.exports = {
+  TOKEN: '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'
+};
